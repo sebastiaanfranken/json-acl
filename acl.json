@@ -1,0 +1,18 @@
+{
+	"guest": {
+		"node": {
+			"read": true,
+			"create": false,
+			"update": false,
+			"delete": false
+		}
+	},
+	"user": {
+		"node": {
+			"read": true,
+			"create": true,
+			"update": true,
+			"delete": true
+		}
+	}
+}
